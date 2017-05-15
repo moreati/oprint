@@ -1,0 +1,15 @@
+*.pyc
+*.pyd
+*.pyo
+
+*.egg
+*.egg-info
+dist
+build
+eggs
+sdidt
+
+coverage
+.coverage
+.tox
+.cache
