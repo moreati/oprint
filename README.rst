@@ -17,7 +17,7 @@ nice side effect this happens to preserve the insertion order of keys.
     The order-preserving aspect of this new implementation is considered an
     implementation detail and should not be relied upon
 
-``pprint.pprint()``_ retains it's behaviour from earlier Python releases.
+``pprint.pprint()`` retains it's behaviour from earlier Python releases.
 It formats a ``dict`` object by sorting the keys alphabetically.
 
 .. code:: python
